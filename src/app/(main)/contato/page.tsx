@@ -23,11 +23,11 @@ export default function Contact() {
           <h2 className="font-bold">E-mail</h2>
           <Link
             className="text-cyan-600 decoration-cyan-700 underline-offset-2 transition-colors hover:text-cyan-700 hover:underline"
-            href="mailto:contato@batistatrindade.com.br"
+            href="mailto:ibtrindade2020@gmail.com"
             target="_blank"
             rel="noopener noreferrer"
           >
-            <span>contato@batistatrindade.com.br</span>
+            <span>ibtrindade2020@gmail.com</span>
           </Link>
         </div>
         <div className="flex flex-col gap-1">
